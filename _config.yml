@@ -1,10 +1,9 @@
 
-title: Catbook #Your awesome title
-email: #youremail@domain.com
+title: Dustbook #Your awesome title
+email: ovehaugv@outlook.com
 description: > # this means to ignore newlines until "baseurl"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Personal blog on doing research as a master student at the department of 
+  geoscience at the University of Oslo
 
 baseurl: # the subpath of the site
 url: https://ovewh.github.io/ # the base hostname & protocol for your site
